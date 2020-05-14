@@ -1,0 +1,9 @@
+Countries,lockdown date,Confirmed cases,temperature,humidity,wind velocity,population density,GDP_country,Risk_country
+Senegal,24/03/2020,83,29.22,17.41,5.38,82,24130,0
+Nigeria,23/03/2020,51,28.47,65.24,1.95,218,397270,0
+Tunisia,20/03/2020,173,17.92,62.81,5.43,72,39861,0
+Algeria,24/03/2020,264,22.38,10.65,5.76,18,180689,0
+Egypt,24/03/2020,402,21.77,19.61,4.17,100,250895,0.43
+Morocco,16/03/2020,29,11.53,67.56,2.15,80,118495,0
+South Africa,26/03/2020,927,24.08,43.02,4.11,48,368288,0
+Cote d’Ivoire,29/03/2020,165,25.93,84.71,2.83,83,43007,0
